@@ -15,6 +15,24 @@
     "feat": "100 levels and 6 powerups! 24 Beginner, 24 Intermediate and 52 Advanced.",
     "invert": false
   }
+	{
+  "name": "H Browser Metro", 
+  "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEhGEqq4YHoqvftyWxVBXK2CbGJ_10C12LTo4p6SlQOEk1YD6wYqEF6gZQgJdmXATz9OGwNeQa4oYapuzvgKULgLD9XHMm57tDCDx3t0B9BbCr-BDUHzwbkYtlvRNWcM6KhoPy1e8lnBCfCiDlmFGd1K96qMYIBU77ajHG9CU42S3yqDlOGJCExvkzc1gAc",
+  "type": "app",
+  "data": {
+    "type": "IFrame",
+    "url": "https://hugohenriquekk.github.io/HBrowser/",
+    "gallery": [
+      
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhaBy1IWt3k-wjMoEfE1ZxYAsEVPm59qciKB1KBvCBQ9ZgcnMfcnHsRptgvmIOdNG3iitvhH85JxJRG-8bGSg2Qb5XwZY6wMcjfPxwjcRjb5xaey8rIrE34WYxVn5dW1xloM1aie1A9YCx5EBHsmucjDeUXVbV1t42dEYGJ_3vF8j0FSQz0mZWuX6mrV4k",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgg28ZBVDKd7-V_QORLIUB4CRnvLrS38QP9RqbPWPATKGZMFWYTqZ6ayW7s4sgnXW9ML0g6gQ3rLRphAWbIgxup6ST4uc1je8Xs4QPWlbNc_mUkbpqU1L33KHfzpDRVXxoCLViGvdbZSX1YSgDrbvNhdL2ySwUzfOhMVGk1pCrwjvbUtHUw7Pd6d5BZvWA",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgRFiAtyUppo1lvfNwB8mKVH5MXfGJ8fpBqrFQ8RZ7V4X0hsPLeEFilgHxG9y5oaHS7cAhXKuheXiont2scxDyaeVX6_QZII4VM8EpEI1gyAO8pB4PQhv20Yr8Bg2ZVM13rLYO5P6IeDijXnAPwJDyZ6bfsIJGJs-163L2zLdYii8KrnrA3Y59ycbW057U"
+    ],
+    "desc": "H Browser is a fast and secure browser with AI, download for Windows or try it on Windows11 in react",
+    "feat": "H BrowserWeb 109, www.Google.com",
+    "invert": true
+  }
+}
 },
 {
   "name": "Marble Blast Platinum",
